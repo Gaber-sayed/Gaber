@@ -15,7 +15,7 @@ const Gaber = {
 
 <div align="left">
     
-## Hello there , my name is Gaber 
+<!--## Hello there , my name is Gaber -->
     
 ### 🔭 Working with
     - Cooya Games
