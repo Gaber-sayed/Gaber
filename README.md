@@ -27,11 +27,11 @@ const Gaber = {
 
 
 
-<a href="https://github.com/FnrDev?tab=followers">
-  <img src="https://img.shields.io/github/followers/FnrDev">
+<a href="https://github.com/Gaber-sayed?tab=followers">
+  <img src="https://img.shields.io/github/followers/Gaber-sayed">
 </a>
-<a href="https://github.com/FnrDev">
-   <img src="https://komarev.com/ghpvc/?username=FnrDev">
+<a href="https://github.com/Gaber-sayed">
+   <img src="https://komarev.com/ghpvc/?username=Gaber-sayed">
 </a>
 
 ---
