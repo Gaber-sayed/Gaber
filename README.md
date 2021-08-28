@@ -36,7 +36,7 @@ const Gaber = {
   <img src="https://img.shields.io/github/followers/Gaber-sayed?style=for-the-badge&logo=github">
 </a>
 <a href="https://github.com/Gaber-sayed">
-   <img src="https://komarev.com/ghpvc/?username=Gaber-sayed?style=for-the-badge&logo=github">
+   <img src="https://komarev.com/ghpvc/?username=Gaber-sayed">
 </a>
 <br>
 <span>
