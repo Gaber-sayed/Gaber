@@ -1,17 +1,5 @@
 ### About Me
 
-<div align="left">
-    
-## Hello there , my name is Gaber 
-    
-### 🔭 Working with
-    - Cooya Games
-    - Electro Discord Bot list
-    - Akon Bot
-    - Alex Bot
-   
-</div>
-
 ```js
 const Gaber = {
     name: "Gaber-Mohamed",
@@ -24,6 +12,20 @@ const Gaber = {
     languages: ["JavaScript"]
 };
 ```
+
+<div align="left">
+    
+## Hello there , my name is Gaber 
+    
+### 🔭 Working with
+    - Cooya Games
+    - Electro Discord Bot list
+    - Akon Bot
+    - Alex Bot
+   
+</div>
+
+
 
 <a href="https://github.com/FnrDev?tab=followers">
   <img src="https://img.shields.io/github/followers/FnrDev">
