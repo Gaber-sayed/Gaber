@@ -25,15 +25,6 @@ const Gaber = {
    
 </div>
 
-
-
-<a href="https://github.com/Gaber-sayed?tab=followers">
-  <img src="https://img.shields.io/github/followers/Gaber-sayed">
-</a>
-<a href="https://github.com/Gaber-sayed">
-   <img src="https://komarev.com/ghpvc/?username=Gaber-sayed">
-</a>
-
 ---
 
 ### GitHub Stats 🌟
@@ -41,10 +32,16 @@ const Gaber = {
 ![Gaber Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaber-sayed&theme=react)
 
 
-<a href="https://github.com/1TGDev?tab=followers">
+<a href="https://github.com/Gaber-sayed?tab=followers">
   <img src="https://img.shields.io/github/followers/Gaber-sayed?style=for-the-badge&logo=github">
 </a>
 
+<a href="https://github.com/Gaber-sayed?tab=followers">
+  <img src="https://img.shields.io/github/followers/Gaber-sayed">
+</a>
+<a href="https://github.com/Gaber-sayed">
+   <img src="https://komarev.com/ghpvc/?username=Gaber-sayed">
+</a>
 <br>
 <span>
 	<img src="https://img.shields.io/badge/-Node.js-43853?logo=node.js&logoColor=white">
