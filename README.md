@@ -1,4 +1,4 @@
-# Gaber
+### About Me
 
 <div align="left">
     
@@ -12,6 +12,29 @@
    
 </div>
 
+```js
+const Gaber = {
+    name: "Gaber-Mohamed",
+    age: 19,
+    from: "Egypt",
+    technologies: {
+        backend: ["NodeJS", "express"],
+        database: ["Mysql", "MongoDB", "Sqlite"],
+    },
+    languages: ["JavaScript"]
+};
+```
+
+<a href="https://github.com/FnrDev?tab=followers">
+  <img src="https://img.shields.io/github/followers/FnrDev">
+</a>
+<a href="https://github.com/FnrDev">
+   <img src="https://komarev.com/ghpvc/?username=FnrDev">
+</a>
+
+---
+
+### GitHub Stats 🌟
 ![Gaber GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Gaber-sayed&count_private=true&show_icons=true&theme=react)
 ![Gaber Top Languages Statistics](https://github-readme-stats.vercel.app/api/top-langs/?username=Gaber-sayed&theme=react)
 
