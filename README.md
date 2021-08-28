@@ -54,8 +54,6 @@ const Gaber = {
 	<img src="https://img.shields.io/badge/-Vue-3fb581?logo=vue.js&logoColor=white">
 	<img src="https://img.shields.io/badge/-Bootstrap-8d56de?logo=bootstrap&logoColor=white">
 	<img src="https://img.shields.io/badge/-SQLite-74c0e9?logo=sqlite&logoColor=white">
-	<img src="https://img.shields.io/badge/-CS-9765d4?logo=csharp&logoColor=white">
-	<img src="https://img.shields.io/badge/-XML-fda056?logo=xml&logoColor=white">
 	<img src="https://img.shields.io/badge/-Express-000?logo=express&logoColor=white">
 	<img src="https://img.shields.io/badge/-Jquery-0868ac?logo=jquery&logoColor=white">
 	<img src="https://img.shields.io/badge/-Electron-a0ebf9?logo=electron&logoColor=black">
