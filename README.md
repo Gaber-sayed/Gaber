@@ -19,6 +19,7 @@ const Gaber = {
 <!--## Hello there , my name is Gaber -->
     
 ### 🔭 Working with
+    - Eagle Developers
     - Cooya Games
     - Electro Discord Bot list
     - Akon Bot
